@@ -9,11 +9,12 @@ Integrations that are already running and can be connected by end-users without 
 
 ## Open source community integrations
 Integrations that require some coding knowledge to set up on your own device or server.
-- [Pocket Casts integration](https://codeberg.org/da/exist.io-pocketcasts#readme)
-- [WiGLE integration](https://codeberg.org/da/exist.io-wigle#readme)
+- [Daylio integration](https://github.com/mlindgren/exist-util)
 - [Instapaper integration](https://codeberg.org/da/exist.io-instapaper/src/branch/main#readme)
+- [Pocket Casts integration](https://codeberg.org/da/exist.io-pocketcasts#readme)
 - [Spiir integration](https://codeberg.org/da/exist.io-spiir#readme)
 - [Tasker integration](https://taskernet.com/shares/?user=AS35m8n%2Blz7V5GivIAiZTHwPCWozuafQnBqauu1crKGLQK89d0yC6Jri8r6DObD9h2WWNva3&id=Project%3AExist+API)
+- [WiGLE integration](https://codeberg.org/da/exist.io-wigle#readme)
 
 ## Libraries and SDKs
 - [TypeScript SDK](https://github.com/leonschreiber96/exist-sdk-typescript)
