@@ -9,6 +9,7 @@ Integrations that are already running and can be connected by end-users without 
 
 ## Open source community integrations
 Integrations that require some coding knowledge to set up on your own device or server.
+- [Audible integration](https://github.com/Roxra/Exist.io-Audible)
 - [Daylio integration](https://github.com/mlindgren/exist-util)
 - [Instapaper integration](https://codeberg.org/da/exist.io-instapaper/src/branch/main#readme)
 - [Lunatask integration](https://codeberg.org/da/exist_lunatask)
